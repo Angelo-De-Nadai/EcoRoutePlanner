@@ -1,4 +1,4 @@
-# FastWay
+# EcoRoutePlanner
 ## Project Description
 
 The project focuses on modeling a highway as a sequence of service stations, each uniquely identified by its distance from the beginning of the highway, expressed in kilometers as a positive or zero integer.

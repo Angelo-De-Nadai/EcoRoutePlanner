@@ -1,4 +1,15 @@
 # EcoRoutePlanner
+## Introduction
+
+This C program models a system for managing a network of stations and cars. It defines structures for 'Station' and 'Car' nodes
+and provides functions to perform various operations on them, including adding and deleting stations, adding and removing cars,
+planning routes, and more. The program reads input from a file or standard input and processes a series of commands to manipulate
+the station and car network. It uses a binary search tree to efficiently manage and search for stations based on their distances.
+
+The program includes functions to add, delete, and search for stations and cars, as well as functions for route planning and
+car management. Additionally, it handles various scenarios, such as adding stations with associated cars, deleting stations with
+and without cars, and planning routes based on user-defined criteria.
+
 ## Project Description
 
 The project focuses on modeling a highway as a sequence of service stations, each uniquely identified by its distance from the beginning of the highway, expressed in kilometers as a positive or zero integer.
